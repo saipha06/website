@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; 
+background-image: url('https://preview.redd.it/23dzkxmb7t161.png?width=3840&format=png&auto=webp&s=31eb4d2d4644acdc5c54ab69332376fa9cd9f8bb');
+background-size: cover;
+}
